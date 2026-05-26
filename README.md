@@ -1,8 +1,9 @@
 # Yet Another Resource Dump (YARD)
 A compiled collection of publicly available test papers, including previous year JEE papers, complete with answer keys in CBT format. To attempt any paper, just click the link.
-<br>Will try my best to keep it updated as much as i can.
+<br>Will try my best to keep it updated (and will make sure this stays up) as much as i can.
 <br>Made with the help of [pdf2cbt](https://pdf2cbt.vercel.app/).
-<br>Report any errors to me on reddit [u/TisMeQwertz](https://www.reddit.com/user/TisMeQwertz/) (also contact me if you wish to contribute, i would really appreciate it).
+<br>~Report any errors to me on reddit [u/TisMeQwertz](https://www.reddit.com/user/TisMeQwertz/) (also contact me if you wish to contribute, i would really appreciate it).~
+<br>Rebuilding what u/TisMeQwertz once sought out to achieve, free publicly available tests for all.
 ## ➤ JEE Mains
 
 ### ➤ 2025
