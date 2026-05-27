@@ -1,6 +1,6 @@
 Actual papers with bonuses/dropped questions, separated from the corrected versions in `README.md`.
 ## ➤ JEE Mains
-### ➤ 2025 ⚠
+### ➤ 2025 ⚠️
 
 | January                                                                                                                                                    |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -11,7 +11,7 @@ Actual papers with bonuses/dropped questions, separated from the corrected versi
 | [28 Shift 2](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Mains+PYPs/2025/2025-J-28s2-real.zip) |
 | [29 Shift 1](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Mains+PYPs/2025/2025-J-29s1-real.zip) |
 | [29 Shift 2](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Mains+PYPs/2025/2025-J-29s2-real.zip) |
-## ➤ JEE Advanced ⚠
+## ➤ JEE Advanced ⚠️
 
 | Paper 1                                                                                                                                                       | Paper 2                                                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
