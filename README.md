@@ -1,4 +1,4 @@
-# Yet Another Resource Dump (YARD)
+# Yet Another Resource Dump (YARD) Reborn 🐦‍🔥
 A compiled collection of publicly available test papers, including previous year JEE papers, complete with answer keys in CBT format. To attempt any paper, just click the link.
 <br>Will try my best to keep it updated (and will make sure this stays up) as much as i can.
 <br>Made with the help of [pdf2cbt](https://pdf2cbt.vercel.app/).
@@ -6,16 +6,30 @@ A compiled collection of publicly available test papers, including previous year
 <br><br>Most papers with bonuses/dropped question have had their questions corrected. If you wish to attempt the actual paper with bonuses/dropped questions, visit [Real Papers ⚠️](Real%20Papers%20⚠️.md).
 <br>The questions with no fixed counterpart have been left here with a warning mark ⚠️
 ## Index
+- [JEE Advanced](#-jee-advanced)
 - [JEE Mains](#-jee-mains)
   - [2026](#-2026)
   - [2025](#-2025)
   - [2024](#-2024)
-- [JEE Advanced](#-jee-advanced)
 - [Miscellaneous Tests](#-miscellaneous-tests)
   - [IITK Sample Papers](#iitk-sample-papers)
   - [AYJRs](#ayjrs)
   - [Mathsmerizing Maths Mocks](#mathsmerizing-maths-mocks-1-hour-each)
   - [CMI PYPs](#cmi-pyps-part-a-only)
+## ➤ JEE Advanced
+| Paper 1                                                                                                                                                       | Paper 2                                                                                                                                                        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [2026 Paper 1](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Advanced+PYPs/JA-PYQ-2026-1.zip)<br>   | [2026 Paper 2](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Advanced+PYPs/JA-PYQ-2026-2.zip)        |
+| [2025 Paper 1](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Advanced+PYPs/JA-PYQ-2025-1.zip)       | [2025 Paper 2](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Advanced+PYPs/JA-PYQ-2025-P2-fixed.zip) |
+| [2024 Paper 1](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Advanced+PYPs/JA-PYQ-2024-P1.zip)      | [2024 Paper 2](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Advanced+PYPs/JA-PYQ-2024-P2.zip)       |
+| [2023 Paper 1](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Advanced+PYPs/JA-PYQ-2023-1.zip)       | [2023 Paper 2](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Advanced+PYPs/JA-PYQ-2023-2.zip) ⚠️      |
+| [2022 Paper 1](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Advanced+PYPs/JA-PYQ-2022-1-fixed.zip) | [2022 Paper 2](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Advanced+PYPs/JA-PYQ-2022-2-fixed.zip)  |
+| [2021 Paper 1](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Advanced+PYPs/JA-PYQ-2021-P1.zip)      | [2021 Paper 2](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Advanced+PYPs/JA-PYQ-2021-P2.zip)       |
+| [2020 Paper 1](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Advanced+PYPs/JA-PYQ-2020-P1.zip)      | [2020 Paper 2](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Advanced+PYPs/JA-PYQ-2020-P2-fixed.zip) |
+| [2019 Paper 1](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Advanced+PYPs/JA-PYQ-2019-1.zip)       | [2019 Paper 2](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Advanced+PYPs/JA-PYQ-2019-2.zip)        |
+| [2018 Paper 1](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Advanced+PYPs/JA-PYQ-2018-1.zip)       | [2018 Paper 2](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Advanced+PYPs/JA-PYQ-2018-2.zip)        |
+| [2017 Paper 1](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Advanced+PYPs/JA-PYQ-2017-1.zip)       | [2017 Paper 2](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Advanced+PYPs/JA-PYQ-2017-2.zip)        |
+| [2016 Paper 1](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Advanced+PYPs/JA-PYQ-2016-1.zip)       | [2016 Paper 2](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Advanced+PYPs/JA-PYQ-2016-2.zip)        |
 ## ➤ JEE Mains
 ### ➤ 2026
 | January                                                                                                                                               | April                                                                                                                                               |
@@ -56,20 +70,6 @@ A compiled collection of publicly available test papers, including previous year
 | [31 Shift 2](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Mains+PYPs/2024/2024-J-31s2.zip) | [8 Shift 2](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Mains+PYPs/2024/2024-A-8s2.zip) |
 | [1 Shift 1](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Mains+PYPs/2024/2024-J-1s1.zip)  | [9 Shift 1](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Mains+PYPs/2024/2024-A-9s1.zip) |
 | [1 Shift 2](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Mains+PYPs/2024/2024-J-1s2.zip)  | [9 Shift 2](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Mains+PYPs/2024/2024-A-9s2.zip) |
-## ➤ JEE Advanced
-| Paper 1                                                                                                                                                       | Paper 2                                                                                                                                                        |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [2026 Paper 1](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Advanced+PYPs/JA-PYQ-2026-1.zip)<br>   | [2026 Paper 2](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Advanced+PYPs/JA-PYQ-2026-2.zip)        |
-| [2025 Paper 1](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Advanced+PYPs/JA-PYQ-2025-1.zip)       | [2025 Paper 2](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Advanced+PYPs/JA-PYQ-2025-P2-fixed.zip) |
-| [2024 Paper 1](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Advanced+PYPs/JA-PYQ-2024-P1.zip)      | [2024 Paper 2](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Advanced+PYPs/JA-PYQ-2024-P2.zip)       |
-| [2023 Paper 1](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Advanced+PYPs/JA-PYQ-2023-1.zip)       | [2023 Paper 2](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Advanced+PYPs/JA-PYQ-2023-2.zip) ⚠️      |
-| [2022 Paper 1](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Advanced+PYPs/JA-PYQ-2022-1-fixed.zip) | [2022 Paper 2](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Advanced+PYPs/JA-PYQ-2022-2-fixed.zip)  |
-| [2021 Paper 1](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Advanced+PYPs/JA-PYQ-2021-P1.zip)      | [2021 Paper 2](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Advanced+PYPs/JA-PYQ-2021-P2.zip)       |
-| [2020 Paper 1](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Advanced+PYPs/JA-PYQ-2020-P1.zip)      | [2020 Paper 2](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Advanced+PYPs/JA-PYQ-2020-P2-fixed.zip) |
-| [2019 Paper 1](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Advanced+PYPs/JA-PYQ-2019-1.zip)       | [2019 Paper 2](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Advanced+PYPs/JA-PYQ-2019-2.zip)        |
-| [2018 Paper 1](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Advanced+PYPs/JA-PYQ-2018-1.zip)       | [2018 Paper 2](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Advanced+PYPs/JA-PYQ-2018-2.zip)        |
-| [2017 Paper 1](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Advanced+PYPs/JA-PYQ-2017-1.zip)       | [2017 Paper 2](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Advanced+PYPs/JA-PYQ-2017-2.zip)        |
-| [2016 Paper 1](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Advanced+PYPs/JA-PYQ-2016-1.zip)       | [2016 Paper 2](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Advanced+PYPs/JA-PYQ-2016-2.zip)        |
 ## ➤ Miscellaneous Tests
 ### IITK Sample Papers
 | IITK Sample Papers                                                                                                                                        |
