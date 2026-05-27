@@ -5,6 +5,17 @@ A compiled collection of publicly available test papers, including previous year
 <br>Rebuilding what u/TisMeQwertz once sought out to achieve, free publicly available tests for all.
 <br><br>Most papers with bonuses/dropped question have had their questions corrected. If you wish to attempt the actual paper with bonuses/dropped questions, visit [Real Papers ⚠️](Real%20Papers%20⚠️.md).
 <br>The questions with no fixed counterpart have been left here with a warning mark ⚠️
+## Index
+- [JEE Mains](#-jee-mains)
+  - [2026](#-2026)
+  - [2025](#-2025)
+  - [2024](#-2024)
+- [JEE Advanced](#-jee-advanced)
+- [Miscellaneous Tests](#-miscellaneous-tests)
+  - [IITK Sample Papers](#iitk-sample-papers)
+  - [AYJRs](#ayjrs)
+  - [Mathsmerizing Maths Mocks](#mathsmerizing-maths-mocks-1-hour-each)
+  - [CMI PYPs](#cmi-pyps-part-a-only)
 ## ➤ JEE Mains
 ### ➤ 2026
 
