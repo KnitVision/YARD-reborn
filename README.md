@@ -12,6 +12,7 @@ A compiled collection of publicly available test papers, including previous year
   - [2025](#-2025)
   - [2024](#-2024)
   - [2023](#-2023)
+  - [2022](#-2022)
 - [Miscellaneous Tests](#-miscellaneous-tests)
   - [IITK Sample Papers](#iitk-sample-papers)
   - [AYJRs](#ayjrs)
@@ -86,6 +87,21 @@ A compiled collection of publicly available test papers, including previous year
 | [31 Shift 2](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Mains+PYPs/2023/2023-J-31s2.zip) | [13 Shift 1](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Mains+PYPs/2023/2023-A-13s1.zip) |
 | [1 Shift 1](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Mains+PYPs/2023/2023-J-1s1.zip)   | [13 Shift 2](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Mains+PYPs/2023/2023-A-13s2.zip) |
 | [1 Shift 2](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Mains+PYPs/2023/2023-J-1s2.zip)   | [15 Shift 1](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Mains+PYPs/2023/2023-A-15s1.zip) |
+### ➤ 2022
+| June                                                                                                                                                    | July                                                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [24 Shift 1](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Mains+PYPs/2022/2022-JUN-24s1.zip) | [25 Shift 1](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Mains+PYPs/2022/2022-JUL-25s1.zip) |
+| [24 Shift 2](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Mains+PYPs/2022/2022-JUN-24s2.zip) | [25 Shift 2](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Mains+PYPs/2022/2022-JUL-25s2.zip) |
+| [25 Shift 1](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Mains+PYPs/2022/2022-JUN-25s1.zip) | [26 Shift 1](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Mains+PYPs/2022/2022-JUL-26s1.zip) |
+| [25 Shift 2](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Mains+PYPs/2022/2022-JUN-25s2.zip) | [26 Shift 2](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Mains+PYPs/2022/2022-JUL-26s2.zip) |
+| [26 Shift 1](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Mains+PYPs/2022/2022-JUN-26s1.zip) | [27 Shift 1](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Mains+PYPs/2022/2022-JUL-27s1.zip) |
+| [26 Shift 2](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Mains+PYPs/2022/2022-JUN-26s2.zip) | [27 Shift 2](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Mains+PYPs/2022/2022-JUL-27s2.zip) |
+| [27 Shift 1](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Mains+PYPs/2022/2022-JUN-27s1.zip) | [28 Shift 1](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Mains+PYPs/2022/2022-JUL-28s1.zip) |
+| [27 Shift 2](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Mains+PYPs/2022/2022-JUN-27s2.zip) | [28 Shift 2](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Mains+PYPs/2022/2022-JUL-28s2.zip) |
+| [28 Shift 1](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Mains+PYPs/2022/2022-JUN-28s1.zip) | [29 Shift 1](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Mains+PYPs/2022/2022-JUL-29s1.zip) |
+| [28 Shift 2](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Mains+PYPs/2022/2022-JUN-28s2.zip) | [29 Shift 2](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Mains+PYPs/2022/2022-JUL-29s2.zip) |
+| [29 Shift 1](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Mains+PYPs/2022/2022-JUN-29s1.zip) |                                                                                                                                                         |
+| [29 Shift 2](https://pdf2cbt.vercel.app/cbt/interface?zipurl=https://github.com/KnitVision/YARD-reborn/blob/main/JEE+Mains+PYPs/2022/2022-JUN-29s2.zip) |                                                                                                                                                         |
 ## ➤ Miscellaneous Tests
 ### IITK Sample Papers
 | IITK Sample Papers                                                                                                                                        |
